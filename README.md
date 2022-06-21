@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ILYASTRUK
 - 👀 I’m interested in programming, sport and video games.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(not at the moment)
 
 <!---
